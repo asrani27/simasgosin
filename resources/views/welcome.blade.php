@@ -133,7 +133,7 @@
             <strong>SIDIN-BAIMAN</strong>
           </div>
           <div class="col-lg-3 col-xs-6 text-center">
-            <a href="http://banjarmasinkota.ina-sdi.or.id" target="_blank"><img src="/logo/sampleicon.png" width="40%"></a><br/>
+            <a href="http://banjarmasinkota.ina-sdi.or.id" target="_blank"><img src="/logo/GEOPORTAL.png" width="40%"></a><br/>
             <strong>GEOPORTAL</strong>
           </div>
           
