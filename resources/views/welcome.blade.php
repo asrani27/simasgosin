@@ -102,35 +102,38 @@
         <br/>
         <div class="row">
           <div class="col-lg-3 col-xs-6 text-center">
-            <a href="http://simtaru.banjarmasinkota.go.id" target="_blank"><img src="/logo/sampleicon.png" width="60%"></a><br/>
+            <a href="http://simtaru.banjarmasinkota.go.id" target="_blank"><img src="/logo/simtaru.png" width="40%"></a><br/>
             <strong>SIMTARU</strong>
           </div>
           <div class="col-lg-3 col-xs-6 text-center">
-            <a href="https://atcs.banjarmasinkota.go.id" target="_blank"><img src="/logo/sampleicon.png" width="60%"></a><br/>
+            <a href="https://atcs.banjarmasinkota.go.id" target="_blank"><img src="/logo/atcs.png" width="40%"></a><br/>
             <strong>ATCS</strong>
           </div>
           <div class="col-lg-3 col-xs-6 text-center">
-            <a href="https://bakawan.banjarmasinkota.go.id" target="_blank"><img src="/logo/sampleicon.png" width="60%"></a><br/>
+            <a href="https://bakawan.banjarmasinkota.go.id" target="_blank"><img src="/logo/bakawan.png" width="40%"></a><br/>
             <strong>BAKAWAN</strong>
           </div>
           <div class="col-lg-3 col-xs-6 text-center">
-            <a href="https://e-damkar.banjarmasinkota.go.id" target="_blank"><img src="/logo/sampleicon.png" width="60%"></a><br/>
+            <a href="https://e-damkar.banjarmasinkota.go.id" target="_blank"><img src="/logo/edamkar.png" width="40%"></a><br/>
             <strong>E-DAMKAR</strong>
           </div>
+        </div>
+        <br/>
+          <div class="row">
           <div class="col-lg-3 col-xs-6 text-center">
-            <a href="https://poskobencana.banjarmasinkota.go.id" target="_blank"><img src="/logo/sampleicon.png" width="60%"></a><br/>
+            <a href="https://poskobencana.banjarmasinkota.go.id" target="_blank"><img src="/logo/pb.png" width="40%"></a><br/>
             <strong>POSKO BENCANA</strong>
           </div>
           <div class="col-lg-3 col-xs-6 text-center">
-            <a href="https://baiman.pambandarmasih.com:8735/apipdam/public/webgis/rekanan/login" target="_blank"><img src="/logo/sampleicon.png" width="60%"></a><br/>
+            <a href="https://baiman.pambandarmasih.com:8735/apipdam/public/webgis/rekanan/login" target="_blank"><img src="/logo/PAM.png" width="40%"></a><br/>
             <strong>PDAM BANDARMASIH</strong>
           </div>
           <div class="col-lg-3 col-xs-6 text-center">
-            <a href="https://sidin-baiman.banjarmasinkota.go.id" target="_blank"><img src="/logo/sampleicon.png" width="60%"></a><br/>
+            <a href="https://sidin-baiman.banjarmasinkota.go.id" target="_blank"><img src="/logo/sb.png" width="40%"></a><br/>
             <strong>SIDIN-BAIMAN</strong>
           </div>
           <div class="col-lg-3 col-xs-6 text-center">
-            <a href="http://banjarmasinkota.ina-sdi.or.id" target="_blank"><img src="/logo/sampleicon.png" width="60%"></a><br/>
+            <a href="http://banjarmasinkota.ina-sdi.or.id" target="_blank"><img src="/logo/sampleicon.png" width="40%"></a><br/>
             <strong>GEOPORTAL</strong>
           </div>
           
